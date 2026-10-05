@@ -1,4 +1,3 @@
-# miniproject
-กลุ่มอุตสาหกรรมเครื่องปรับอากาศและเครื่องทำความเย็น
+#หัวข้อเรื่อง กลุ่มอุตสาหกรรมเครื่องปรับอากาศและเครื่องทำความเย็น
 หน้า Dashboard
-https://cool-story-dash.lovable.app
+# https://cool-story-dash.lovable.app
